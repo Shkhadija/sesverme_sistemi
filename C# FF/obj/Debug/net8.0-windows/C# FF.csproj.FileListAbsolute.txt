@@ -1,0 +1,20 @@
+C:\Users\LENOVO\Documents\C# FF\C# FF\bin\Debug\net8.0-windows\C# FF.exe
+C:\Users\LENOVO\Documents\C# FF\C# FF\bin\Debug\net8.0-windows\C# FF.deps.json
+C:\Users\LENOVO\Documents\C# FF\C# FF\bin\Debug\net8.0-windows\C# FF.runtimeconfig.json
+C:\Users\LENOVO\Documents\C# FF\C# FF\bin\Debug\net8.0-windows\C# FF.dll
+C:\Users\LENOVO\Documents\C# FF\C# FF\bin\Debug\net8.0-windows\C# FF.pdb
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\C__FF.Form1.resources
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\C# FF.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\C# FF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\C# FF.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\C# FF.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\C# FF.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\C# FF.dll
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\refint\C# FF.dll
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\C# FF.pdb
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\C# FF.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\ref\C# FF.dll
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\C__FF.AdminForm.resources
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\C__FF.VoterForm.resources
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\C__FF.Properties.Resources.resources
+C:\Users\LENOVO\Documents\C# FF\C# FF\obj\Debug\net8.0-windows\C__FF.VoterInfoForm.resources
